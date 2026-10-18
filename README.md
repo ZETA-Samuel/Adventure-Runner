@@ -20,19 +20,4 @@ Source** to **GitHub Actions**. Then push this workflow to `main` or run it
 manually from **Actions**. GitHub will show the deployment URL in the workflow
 run and under **Settings → Pages**.
 
-## Run locally
-
-Install Pygame and run:
-
-```bash
-python main.py
-```
-
-To build the browser version locally, install Pygbag in the project's `.venv` and
-run:
-
-```bash
-./build_web.sh
-```
-
 The generated site is written to `build/web`.
