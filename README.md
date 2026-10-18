@@ -21,3 +21,9 @@ manually from **Actions**. GitHub will show the deployment URL in the workflow
 run and under **Settings → Pages**.
 
 The generated site is written to `build/web`.
+
+## HOW TO PLAY
+
+When loaded, press the play button to start.
+W,A,S,D or arrows keys for movement.
+Reach the trophy to win the game.
